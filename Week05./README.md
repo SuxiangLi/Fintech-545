@@ -1,4 +1,5 @@
 Value at Risk (VaR) and Expected Shortfall (ES) Calculation
+
 This code calculates the VaR and ES for a given portfolio of stocks using historical data and Monte Carlo simulation. The code is divided into three parts:
 
 Problem 1
